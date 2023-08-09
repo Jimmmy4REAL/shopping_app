@@ -1,0 +1,8 @@
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/repository/OrderRepository.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/dto/OrderRequest.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/OrderServiceApplication.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/dto/OrderLineItemsDto.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/controller/OrderController.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/service/OrderService.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/model/Order.java
+/Users/jimmmy/Desktop/shopping_main/order-service/src/main/java/jimmy/orderservice/model/OrderLineItems.java

@@ -1,0 +1,10 @@
+jimmy/productservice/service/ProductService.class
+jimmy/productservice/ProductServiceApplication.class
+jimmy/productservice/dto/ProductRequest.class
+jimmy/productservice/dto/ProductResponse.class
+jimmy/productservice/repository/ProductRepository.class
+jimmy/productservice/model/Product$ProductBuilder.class
+jimmy/productservice/model/Product.class
+jimmy/productservice/dto/ProductRequest$ProductRequestBuilder.class
+jimmy/productservice/controller/ProductController.class
+jimmy/productservice/dto/ProductResponse$ProductResponseBuilder.class
