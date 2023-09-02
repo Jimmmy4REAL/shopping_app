@@ -33,6 +33,7 @@ Here's how the Advanced Shopping Application operates:
 - **Data Storage**: MySQL is used to store inventory and order data, while MongoDB is employed for product data storage.
 - **Processing**: Asynchronous processing with Kafka, synchronous processing with Resilience4j circuit breaker.
 - **Authentication**: Implements OAuth 2.0 for robust and secure user authentication using Keycloak.
+- **Testing**: Junit 5 is used for service testing, confirm availablity of application.
 - **Distributed Tracing**: Zipkin is integrated for distributed tracing, aiding in system monitoring and diagnostics.
 - **Monitoring**: Service performance is monitored using Prometheus and Grafana, ensuring system health.
 
