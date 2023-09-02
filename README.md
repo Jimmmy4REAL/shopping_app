@@ -36,6 +36,7 @@ Here's how the Advanced Shopping Application operates:
 - **Testing**: Junit 5 is used for service testing, confirm availablity of application.
 - **Distributed Tracing**: Zipkin is integrated for distributed tracing, aiding in system monitoring and diagnostics.
 - **Monitoring**: Service performance is monitored using Prometheus and Grafana, ensuring system health.
+- **Version Control**: Git is used to track application milestones.
 
 ## Getting Started
 
